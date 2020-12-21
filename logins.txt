@@ -1,0 +1,3 @@
+usuario:rubenscouto@gmail.com
+senha:123456
+A senha está criptografada com password hash.
